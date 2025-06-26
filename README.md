@@ -86,5 +86,5 @@ CLOUD_API_SECRET=GoSqbt7nKWIMpk6lF4EAEUY2VAc
 ATLASDB_URL=mongodb://localhost:5000/wanderlust (use your mongo url here)
 SECRET=JJDFDSJFDFJSDFKJKDJ  
 
-step- 10 then run (nodemon app.js)    
-step 11 :In browser go and put localhost:5050 to check it out
+step 10 - then run (nodemon app.js)    
+step 11 - In browser go and put localhost:5000 to check it out
