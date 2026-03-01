@@ -70,5 +70,12 @@ It provides:
 ## 🛠 **Installation & Setup**   
 ```bash
 step 1 - git clone https://github.com/your-username/url-shortener.git
-step 2 - cd url-shortener
+start new terminal
+step 2 - cd frontend
+step 3 - npm install
+step 4 - npm run dev
 
+start new terminal 
+step 5 - cd backend
+step 6 - python -m pip install flask flask-cors pymongo python-dotenv shortuuid
+step 7 - python app.py
